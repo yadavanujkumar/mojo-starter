@@ -67,12 +67,14 @@ struct Circle:
     
     fn area(self) -> Float64:
         """Calculate the area of the circle."""
-        let pi: Float64 = 3.14159265359
+        # Using pi constant for circle calculations
+        alias pi: Float64 = 3.14159265359
         return pi * self.radius ** 2
     
     fn circumference(self) -> Float64:
         """Calculate the circumference of the circle."""
-        let pi: Float64 = 3.14159265359
+        # Using pi constant for circle calculations
+        alias pi: Float64 = 3.14159265359
         return 2 * pi * self.radius
     
     fn display(self):

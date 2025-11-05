@@ -198,4 +198,5 @@ fn main():
     print("   • Zero-cost abstractions")
     print("   • SIMD vectorization support")
     print("   • Direct memory management when needed")
-    print("   • Can be 35,000x faster than Python!")
+    print("   • Can be up to 35,000x faster than Python in optimized scenarios!")
+    print("   • Performance gains vary based on use case and optimization level")

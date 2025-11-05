@@ -64,7 +64,7 @@ This project is organized from basic to advanced concepts. Follow the examples i
 
 ### 7. **Error Handling** (`examples/07_error_handling.mojo`)
    - Understanding errors in Mojo
-   - Using Result types
+   - Using `raises` and `try/except`
    - Safe error propagation
 
 ### 8. **Performance Example** (`examples/08_performance.mojo`)
@@ -95,7 +95,7 @@ mojo-starter/
 ## 💡 Key Concepts
 
 ### Mojo vs Python
-- **Performance**: Mojo can be 35,000x faster than Python
+- **Performance**: Mojo can be up to 35,000x faster than Python in optimized scenarios
 - **Type Safety**: Optional static typing for better performance
 - **Memory Management**: Low-level control when needed
 - **Compatibility**: Can use Python libraries
