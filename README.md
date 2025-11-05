@@ -86,7 +86,9 @@ mojo-starter/
 │   ├── 07_error_handling.mojo
 │   └── 08_performance.mojo
 ├── docs/              # Additional documentation
-│   └── GETTING_STARTED.md
+│   ├── GETTING_STARTED.md
+│   ├── QUICK_REFERENCE.md
+│   └── CONTRIBUTING.md
 └── README.md          # This file
 ```
 
@@ -106,6 +108,12 @@ mojo-starter/
 
 ## 📚 Additional Resources
 
+### In This Repository
+- **[Getting Started Guide](docs/GETTING_STARTED.md)** - Complete setup and installation guide
+- **[Quick Reference](docs/QUICK_REFERENCE.md)** - Handy syntax reference
+- **[Contributing Guide](docs/CONTRIBUTING.md)** - How to contribute to this project
+
+### External Resources
 - [Official Mojo Documentation](https://docs.modular.com/mojo/)
 - [Mojo Playground](https://playground.modular.com/)
 - [Mojo GitHub](https://github.com/modularml/mojo)
@@ -113,7 +121,7 @@ mojo-starter/
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to:
+Contributions are welcome! Please read our [Contributing Guide](docs/CONTRIBUTING.md) for details on how to:
 - Add new examples
 - Improve documentation
 - Fix bugs or typos
