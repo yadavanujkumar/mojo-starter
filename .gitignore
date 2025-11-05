@@ -1,0 +1,35 @@
+# Mojo build artifacts
+*.o
+*.so
+*.dylib
+*.a
+__pycache__/
+*.pyc
+
+# Compiled executables
+01_hello_world
+02_variables
+03_control_flow
+04_functions
+05_structs
+06_collections
+07_error_handling
+08_performance
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+/tmp/
+*.tmp
+*.log
+
+# Build directories
+build/
+dist/
+*.egg-info/
